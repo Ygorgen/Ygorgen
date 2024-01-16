@@ -47,7 +47,7 @@ Estou animado para encarar novos desafios e contribuir de maneira significativa 
 )](contatoygorarjprofissional@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](contatoygorarjprofissional@gmail.com)
+)](https://www.linkedin.com/in/ygor-araujorb/)
 
 ![Ygor GitHub stats](https://github-readme-stats.vercel.app/api?username=Ygorgen&show_icons=true&theme=dracula)
 
