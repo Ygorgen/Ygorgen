@@ -4,11 +4,11 @@
 # Sobre mim 👨🏼‍💻
 ###
 
-<p> Olá, sou Ygor, tenho 25 anos e moro em São Gonçalo, Rio de Janeiro. Desde cedo, desenvolvi uma paixão pelos jogos, um interesse que se destacou e me impulsionou a explorar o vasto mundo da tecnologia.
+<p> Sou Ygor de Araujo Ribeiro, um desenvolvedor full stack com foco no back-end. Utilizo tecnologias como Java, Spring Boot, MySQL e React para construir sistemas eficientes. 
 
-Minha jornada começou com o curso em vídeo do Guanabara, despertando em mim um entusiasmo genuíno pela programação. Atualmente, estou no quarto período da faculdade de Ciência da Computação, buscando aprofundar meus conhecimentos nesse fascinante campo.
+Sou apaixonado por trabalho em equipe e sempre busco colaborar para que o grupo alcance os melhores resultados. Tenho experiência com metodologias ágeis, como o Scrum, o que me ajuda a manter o foco nas entregas e otimizar os processos.
 
-Além disso, concluí o boot camp da Generation, um intensivo de 6 meses em desenvolvimento full stack. Essa experiência prática, aliada à minha formação acadêmica, solidificou minha base para trilhar uma carreira como desenvolvedor.
+Além disso, concluí o boot camp da Generation.Essa experiência prática, aliada à minha formação acadêmica, solidificou minha base para trilhar uma carreira como desenvolvedor.
 
 Estou animado para encarar novos desafios e contribuir de maneira significativa para o mundo da tecnologia. Seja bem-vindo à minha jornada, onde a paixão pelos jogos se transforma em uma trajetória única.</p>
 
