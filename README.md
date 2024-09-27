@@ -6,7 +6,7 @@
 
 <p> Olá, sou Ygor, tenho 25 anos e moro em São Gonçalo, Rio de Janeiro. Desde cedo, desenvolvi uma paixão pelos jogos, um interesse que se destacou e me impulsionou a explorar o vasto mundo da tecnologia.
 
-Minha jornada começou com o curso em vídeo do Guanabara, despertando em mim um entusiasmo genuíno pela programação. Atualmente, estou no segundo período da faculdade de Ciência da Computação, buscando aprofundar meus conhecimentos nesse fascinante campo.
+Minha jornada começou com o curso em vídeo do Guanabara, despertando em mim um entusiasmo genuíno pela programação. Atualmente, estou no quarto período da faculdade de Ciência da Computação, buscando aprofundar meus conhecimentos nesse fascinante campo.
 
 Além disso, concluí o boot camp da Generation, um intensivo de 6 meses em desenvolvimento full stack. Essa experiência prática, aliada à minha formação acadêmica, solidificou minha base para trilhar uma carreira como desenvolvedor.
 
