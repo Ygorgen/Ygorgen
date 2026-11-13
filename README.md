@@ -4,13 +4,12 @@
 # Sobre mim 👨🏼‍💻
 ###
 
-<p> Sou Ygor de Araujo Ribeiro, um desenvolvedor full stack com foco no back-end. Utilizo tecnologias como Java, Spring Boot, MySQL e React para construir sistemas eficientes. 
+<p>desenvolvedor com foco em Back-end Java. Tenho conhecimentos em Java, Spring Boot e desenvolvimento de APIs REST, além de experiência prática na construção de aplicações utilizando bancos de dados relacionais, autenticação e segurança.
 
-Sou apaixonado por trabalho em equipe e sempre busco colaborar para que o grupo alcance os melhores resultados. Tenho experiência com metodologias ágeis, como o Scrum, o que me ajuda a manter o foco nas entregas e otimizar os processos.
+Ao longo da minha formação e dos projetos desenvolvidos, trabalhei com tecnologias como Spring Security, JWT, Hibernate, MySQL e Docker, aplicando conceitos de arquitetura em camadas, Clean Architecture e princípios SOLID.
 
-Além disso, concluí o boot camp da Generation.Essa experiência prática, aliada à minha formação acadêmica, solidificou minha base para trilhar uma carreira como desenvolvedor.
-
-Estou animado para encarar novos desafios e contribuir de maneira significativa para o mundo da tecnologia. Seja bem-vindo à minha jornada, onde a paixão pelos jogos se transforma em uma trajetória única.</p>
+Atualmente, busco uma oportunidade como Desenvolvedor Back-end Java Júnior, com o objetivo de contribuir para projetos reais, aprimorar minhas habilidades e crescer profissionalmente na área de tecnologia.
+</p>
 
 # Formação 📚
 <p> Desenvolvimento Web Full Stack - Generation Brasil (agosto/2023 - outubro/2023) </p>
