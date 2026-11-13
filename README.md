@@ -4,7 +4,7 @@
 # Sobre mim 👨🏼‍💻
 ###
 
-<p>desenvolvedor com foco em Back-end Java. Tenho conhecimentos em Java, Spring Boot e desenvolvimento de APIs REST, além de experiência prática na construção de aplicações utilizando bancos de dados relacionais, autenticação e segurança.
+<p>Desenvolvedor com foco em Back-end Java. Tenho conhecimentos em Java, Spring Boot e desenvolvimento de APIs REST, além de experiência prática na construção de aplicações utilizando bancos de dados relacionais, autenticação e segurança.
 
 Ao longo da minha formação e dos projetos desenvolvidos, trabalhei com tecnologias como Spring Security, JWT, Hibernate, MySQL e Docker, aplicando conceitos de arquitetura em camadas, Clean Architecture e princípios SOLID.
 
