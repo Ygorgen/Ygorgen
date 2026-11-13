@@ -12,8 +12,8 @@ Atualmente, busco uma oportunidade como Desenvolvedor Back-end Java Júnior, com
 </p>
 
 # Formação 📚
+<p> Ciência da computação - Anhanguera (Formado)
 <p> Desenvolvimento Web Full Stack - Generation Brasil (agosto/2023 - outubro/2023) </p>
-<p> Ciência da computação - Anhanguera (Janeiro/2023 - Cursando) </p>
 
 # Tecnologias 💻
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Ygorgen)
